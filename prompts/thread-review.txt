@@ -1,0 +1,44 @@
+# Thread Review Prompt
+Version: 2026-02-01
+
+Please create a summary document for this thread following these guidelines:
+
+## Document Structure
+- **Title**: Use the topic header created for the thread
+- **Format**: Markdown file (.md)
+- **Filename**: Use the thread topic as the filename
+
+## Required Sections
+
+### Header Information
+- Date range of conversation (first and last exchange dates)
+- Brief context statement (2-3 sentences explaining what prompted this thread)
+
+### Key Takeaways (TL;DR)
+- 3-5 one line bullet points capturing the most important outcomes or insights
+- Written for quick reference when revisiting weeks or months later
+
+### Summary
+- Professional and informative tone
+- Remove redundancies and outdated information
+- If we settled on an answer, method, or process, document the final result concisely disregarding how we came to the final decision.  I can look back at the thread if I need that detail
+- Preserve specific examples, workflows, configurations, or code discussed only if they are part of the final answer
+- Include relevant tool names, links, or references mentioned
+- Document key decisions reached during the conversation
+
+### Action Items
+- List any tasks or next steps identified (note if completed during thread)
+
+### Open Questions
+- Capture any unresolved issues or questions to revisit
+- Omit this section if everything was resolved
+
+### Concepts & Terms
+- Note any new concepts, terminology, or ideas introduced
+- Helpful for creating future pages/objects in PKM system
+
+### Cross-References
+- Link to related threads or conversations if applicable
+- Omit if this is a standalone discussion
+
+OUTPUT AS ARTIFACT
