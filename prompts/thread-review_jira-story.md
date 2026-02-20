@@ -28,6 +28,7 @@ Please create a Jira Story document for this thread following these guidelines:
 - If investigation was needed: state that investigation needs to occur to determine the cause and fix
 - If cause was already known: state that a specific fix needs to be implemented
 - Keep tone casual and straightforward
+- If dates, sequences of events, deployment windows, release dates, or other timeline-related data are provided, include these in the Description section exactly as provided, unless the user states otherwise.
 
 ### Acceptance Criteria
 - Clear, testable criteria that define when the work is complete
